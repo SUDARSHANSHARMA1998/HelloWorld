@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "b82bd223-23fb-493d-82e7-b087003dc0c1",
+		"name": "New Collection d1 Copy chnage",
+		"description": "added descriptoijon",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "889639-b82bd223-23fb-493d-82e7-b087003dc0c1"
+	},
+	"item": [
+		{
+			"name": "changed after sync",
+			"id": "b5af46ad-c4a0-4344-8c94-468087ac86a6",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
